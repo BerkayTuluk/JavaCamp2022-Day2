@@ -1,0 +1,14 @@
+package reCapDemo_Classes;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		DortIslem dortIslem = new DortIslem();
+		dortIslem.Topla(8, 9);
+		dortIslem.Cikar(9, 8);
+		dortIslem.Carp(8, 9);
+		dortIslem.Bol(9, 8);
+	}
+
+}
